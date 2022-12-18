@@ -59,4 +59,4 @@ novos desafios, não me importando com a dificulda que seja.
 
 
 <br> 
-![giphy](https://user-images.githubusercontent.com/100001528/208314077-5fcb7322-39c3-479a-9330-1c8ddc1379df.gif)
+<img center = "100px" src="[https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif](https://user-images.githubusercontent.com/100001528/208314077-5fcb7322-39c3-479a-9330-1c8ddc1379df.gif)"/>
