@@ -21,7 +21,7 @@ Olá sou <strong>William</strong>
 ## 💻 Tech Stack:
 📌BackEnd: PHP, SQL <br>
 📌FrontEnd: HTML, CSS, JAVASCRIPT <br>
-📌Linguagens e FrameWorks que conheço: Java, Laravel <br>
+📌Linguagens e FrameWorks que conheço: Java, Laravel, Booststrap, Jquery, Ajax <br>
 📌Linguagens e FrameWorks que estou estudando: Python, NodeJs, ReactJs <br>
 📌Controle de código de versão: GIT and GITHUB <br>
 📌Ferramentas: VsCode 
