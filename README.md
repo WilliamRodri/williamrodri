@@ -3,7 +3,9 @@
 </div>
 
 <br><br>
-
+<div align = "right">
+  <img height = "250px" src = "https://camo.githubusercontent.com/e8b1254cc15ec3b2b4ea3b3358df8b16e6cb530a7b8f4f95afd7495ed1473313/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3733323632333139333034363634363933362f3837373539313932343230393438373837322f6d616e6a69726f2e676966" >
+</div>
 Olá sou <strong>William</strong>
 
 -[x] From Brazil 📍<br>
@@ -49,6 +51,7 @@ novos desafios, não me importando com a dificulda que seja.
 
 <img align="left" src="https://profile-counter.glitch.me/WilliamRodri/count.svg?"  />
 
-<div align = "center">
-  <img height = "300px" src = "https://camo.githubusercontent.com/e8b1254cc15ec3b2b4ea3b3358df8b16e6cb530a7b8f4f95afd7495ed1473313/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3733323632333139333034363634363933362f3837373539313932343230393438373837322f6d616e6a69726f2e676966" >
-</div>
+
+<br> 
+
+//![Snake animation](https://github.com/WilliamRodri/WilliamRodri/blob/output/github-contribution-grid-snake.svg)
