@@ -3,7 +3,7 @@
 </div>
 
 <br><br>
-<div align = "center" display="flex">
+<div align = "center">
   
 <div>
 Olá sou <strong>William</strong>
