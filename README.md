@@ -60,4 +60,4 @@ novos desafios, não me importando com a dificulda que seja.
 
 <br> 
 
-//![Snake animation](https://github.com/WilliamRodri/github-contribution-grid-snake.svg/blob/main/snake)
+[giphy](https://user-images.githubusercontent.com/100001528/208313922-72d4fb5b-6d2d-40f7-a893-0679fae9eaf2.gif)
