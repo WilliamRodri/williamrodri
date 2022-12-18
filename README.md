@@ -1,45 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+William+Rodrigues;I'm+16+years+old;I+from+Fortaleza,+CE;Eu+atualmente+estudo+Desenvolvimento;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">
-  <a href="https://github.com/WilliamRodri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamRodri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRodri&layout=compact&langs_count=7&theme=dracula"/>
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 </div>
+<br><br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=WilliamRodri&theme=gotham&hide_border=true&area=true)
+Olá sou <strong>William</strong>
 
-<div align="center">  
-<a href="https://www.instagram.com/sousa.sw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+-[x] From Brazil 📍
+-[x] Web development Full Stacks
+<br>
+
+## 💻 Tech Stack:
+📌BackEnd: PHP, SQL
+📌FrontEnd: HTML, CSS, JAVASCRIPT
+📌Linguagens e FrameWorks que conheço: Java, Laravel
+📌Linguagens e FrameWorks que estou estudando: Python, NodeJs, ReactJs
+📌Controle de código de versão: GIT and GITHUB
+📌Ferramentas: VsCode
+
+## 🌐 Contact:
+<span>
+<a href="https://www.linkedin.com/in/william-rodrigues-55ba43233" target="_blank">
+<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="LinkedIn Badge" height="20"></a>&nbsp;
   
- ### Minhas Habilidades:
-![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<a href="#"><img src="" title="Murilo_Muller#6252" alt="Discord Badge" height="20"></a>&nbsp;
   
- ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+<a href="https://mailto:will2012050@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Email: protonmail Badge" height="20"></a>&nbsp;
   
- ### Outras Habilidades:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+<a href="https://www.instagram.com/will_tnc" target="_blank"><img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="GitHub Badge" height="20"></a>&nbsp;
+ 
+</span>
+
+<img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
+
+<span>
   
- ### Estudando no Momento:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+Não me canso de aprender e estou sempre disposto a me propor a
+novos desafios, não me importando com a dificulda que seja.
   
- <div align="center">
-<br><p align="centre"><b>Contagem de VIsitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WilliamRodri}/count.svg" /></p> 
-<br></div>
-  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</span>
+
+<img align="left" src="https://profile-counter.glitch.me/WilliamRodri/count.svg?"  />
+
+<div align = "center">
+  <img height = "140px" src = "https://camo.githubusercontent.com/e8b1254cc15ec3b2b4ea3b3358df8b16e6cb530a7b8f4f95afd7495ed1473313/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3733323632333139333034363634363933362f3837373539313932343230393438373837322f6d616e6a69726f2e676966" >
+</div>
