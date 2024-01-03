@@ -1,62 +1,21 @@
-<div align = "center">
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-</div>
+<h1 align="center">Hi 👋, I'm William Rodriguês</h1>
+<h3 align="center">Desenvolvedor FullStacks com foco em Back-End.</h3>
 
-<br><br>
-<div align = "center">
-  
-<div>
-Olá sou <strong>William</strong>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamrodri" alt="williamrodri" /></a> </p>
 
--[x] From Brazil 📍<br>
--[x] Web development Full Stacks<br>
-</div>
-  
-<div>
-  <img height = "200px" src = "https://camo.githubusercontent.com/e8b1254cc15ec3b2b4ea3b3358df8b16e6cb530a7b8f4f95afd7495ed1473313/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3733323632333139333034363634363933362f3837373539313932343230393438373837322f6d616e6a69726f2e676966" >  
-</div>
-</div>
+- 💬 Sobre mim **Desenvolvedor a mais de 4 Anos**
 
+- 📫 Entre em contato comigo. **will2012050@gmail.com**
 
-## 💻 Tech Stack:
-📌BackEnd: PHP, SQL <br>
-📌FrontEnd: HTML, CSS, JAVASCRIPT <br>
-📌Linguagens e FrameWorks que conheço: Java, Laravel, Booststrap, Jquery, Ajax <br>
-📌Linguagens e FrameWorks que estou estudando: Python, NodeJs, ReactJs <br>
-📌Controle de código de versão: GIT and GITHUB <br>
-📌Ferramentas: VsCode 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/williamrodrigues10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamrodrigues10" height="30" width="40" /></a>
+<a href="https://instagram.com/will.env" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="will.env" height="30" width="40" /></a>
+</p>
 
-<br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🌐 Contact:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamrodri&show_icons=true&locale=en&layout=compact" alt="williamrodri" /></p>
 
-<span>
-  
-<a href="https://www.linkedin.com/in/william-rodrigues-55ba43233" target="_blank">
-<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="LinkedIn Badge" height="65"></a>&nbsp; 
-
-<a href="WilliamR.S#6970" target="_blank">
-<img src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" title="WilliamR.S#6970" alt="Discord Badge" height="65"></a>&nbsp;
-
-<a href="https://mailto:will2012050@gmail.com" target="_blank">
-<img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Email: protonmail Badge" height="65"></a>&nbsp; 
-
-<a href="https://www.instagram.com/will_tnc" target="_blank">
-<img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" height="65"></a>&nbsp;
- 
-</span>
-
-<img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
-
-<span>
-  
-Não me canso de aprender e estou sempre disposto a me propor a <br>
-novos desafios, não me importando com a dificulda que seja.
-  
-</span>
-
-<img align="left" src="https://profile-counter.glitch.me/WilliamRodri/count.svg?"  />
-
-
-<br> 
-<img center = "100px" src="[https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif](https://user-images.githubusercontent.com/100001528/208314077-5fcb7322-39c3-479a-9330-1c8ddc1379df.gif)"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamrodri&show_icons=true&locale=en" alt="williamrodri" /></p>
