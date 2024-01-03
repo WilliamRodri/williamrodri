@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm William Rodriguês</h1>
 <h3 align="center">Desenvolvedor FullStacks com foco em Back-End.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamrodri" alt="williamrodri" /></a> </p>
-
 - 💬 Sobre mim **Desenvolvedor a mais de 4 Anos**
 
 - 📫 Entre em contato comigo. **will2012050@gmail.com**
